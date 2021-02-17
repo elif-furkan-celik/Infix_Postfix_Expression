@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1606207916 source:c:\users\fufu\desktop\lab_3\main.cpp
+	<stdio.h>
+	<string>
+	<iostream>
+
+1606208014 source:c:\users\fufu\desktop\lab_3\expression.cpp
+	<string>
+	<stack>
+	<iostream>
+
